@@ -1,0 +1,25 @@
+{
+  "spec": 1,
+  "name": "RagingRedLotus BB",
+  "previewText": "RagingRedLotus BB",
+  "main": {
+    "ABCGintoNord-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-ExtraBoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-Medium": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-MediumItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-Normal": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-NormalItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "NotoSans-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "NotoSans-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "NotoSans-Medium": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "NotoSans-Normal": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "NotoSans-NormalItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "NotoSans-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf",
+    "SourceCodePro-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB.ttf"
+  }
+}
