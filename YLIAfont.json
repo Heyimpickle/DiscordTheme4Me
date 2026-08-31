@@ -1,0 +1,24 @@
+{
+  "spec": 1,
+  "name": "Cormorant Garamond",
+  "previewText": "Cormorant Garamond",
+  "main": {
+    "ABCGintoNord-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ABCGintoNord-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ABCGintoNord-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ABCGintoNord-Medium": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-Medium": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-Normal": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-NormalItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "NotoSans-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "NotoSans-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "NotoSans-Italic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "NotoSans-Regular": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf",
+    "SourceCodePro-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/CormorantGaramond-Regular.ttf"
+  }
+}
