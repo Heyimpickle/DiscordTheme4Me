@@ -66,7 +66,6 @@
     "MENTION_BADGE": ["#FF5C91"],
     "REDESIGN_MENTION_BADGE": ["#FF5C91"],
 
-    /* ⭐ Added DM list colours */
     "CHANNELS_DEFAULT": ["rgba(60, 20, 90, 0.48)"],
     "CHANNELS_HOVER": ["rgba(94, 35, 125, 0.68)"],
     "CHANNELS_SELECTED": ["rgba(120, 50, 160, 0.32)"],
