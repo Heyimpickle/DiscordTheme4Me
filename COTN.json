@@ -254,7 +254,7 @@
 
   "background": {
     "url": "https://media1.tenor.com/m/Tw-rv8Y8dewAAAAd/nazuna-nanakusa-call-of-the-night.gif",
-    "blur": 0.25,
+    "blur": 0.10,
     "alpha": 0.85,
     "size": "cover",
     "position": "center"
