@@ -1,6 +1,6 @@
 {
-“name”: “Your Lie in April”,
-“description”: “A soft, translucent Your Lie in April theme for Bunny, inspired by spring skies, piano ivory, cherry blossoms, and Kaori’s violin.”,
+“name”: “YLIA”,
+“description”: “A soft translucent blue, pink and ivory Your Lie in April theme for Bunny.”,
 “authors”: [
 {
 “name”: “Alex”,
@@ -9,235 +9,235 @@
 ],
 “semanticColors”: {
 “BACKGROUND_TERTIARY”: [
-“rgba(20, 38, 58, 0.52)”
+“rgba(18, 38, 55, 0.52)”
 ],
 “BACKGROUND_ACCENT”: [
-“rgba(15, 30, 48, 0.62)”
+“rgba(10, 25, 40, 0.62)”
 ],
 “BACKGROUND_SECONDARY”: [
-“rgba(23, 43, 63, 0.48)”
+“rgba(20, 45, 63, 0.48)”
 ],
 “BACKGROUND_MODIFIER_ACCENT”: [
-“rgba(24, 48, 68, 0.48)”
+“rgba(15, 38, 55, 0.48)”
 ],
 “DIVIDER_STRONG”: [
-“rgba(151, 202, 224, 0.38)”
+“rgba(143, 201, 224, 0.38)”
 ],
 “DIVIDER_SUBTLE”: [
-“rgba(151, 202, 224, 0.22)”
+“rgba(106, 163, 190, 0.22)”
 ],
 “BORDER_SUBTLE”: [
-“rgba(183, 218, 231, 0.25)”
+“rgba(158, 207, 224, 0.25)”
 ],
 “SPINE_DEFAULT”: [
-“#8FC7DF”
+“#8BC6DF”
 ],
 “SPOILER_HIDDEN_BACKGROUND”: [
-“rgba(15, 30, 48, 0.62)”
+“rgba(10, 25, 40, 0.62)”
 ],
 “SPOILER_REVEALED_BACKGROUND”: [
-“rgba(23, 43, 63, 0.42)”
+“rgba(20, 45, 63, 0.42)”
 ],
 “STAGE_CARD_PILL_BG”: [
-“rgba(15, 30, 48, 0.62)”
+“rgba(10, 25, 40, 0.62)”
 ],
 “STATUS_DANGER”: [
-“#E98B9A”
+“#E88F9F”
 ],
 “STATUS_DANGER_BACKGROUND”: [
-“rgba(70, 35, 45, 0.65)”
+“rgba(65, 28, 38, 0.65)”
 ],
 “STATUS_DANGER_TEXT”: [
-“#FFD0D7”
+“#FFD0D8”
 ],
 “STATUS_DND”: [
-“#E98B9A”
+“#E88F9F”
 ],
 “STATUS_IDLE”: [
-“#E7B56A”
+“#E6B66E”
 ],
 “STATUS_OFFLINE”: [
-“#647789”
+“#536B7A”
 ],
 “STATUS_ONLINE”: [
-“#79C9A0”
+“#70C69B”
 ],
 “STATUS_POSITIVE”: [
-“#79C9A0”
+“#70C69B”
 ],
 “STATUS_POSITIVE_BACKGROUND”: [
-“rgba(24, 62, 47, 0.65)”
+“rgba(17, 54, 40, 0.65)”
 ],
 “STATUS_POSITIVE_TEXT”: [
-“#B7E8CF”
+“#A9E5C8”
 ],
 “STATUS_SPEAKING”: [
-“#91CDE5”
+“#8FCDE5”
 ],
 “STATUS_WARNING”: [
-“#E7B56A”
+“#E8C36F”
 ],
 “STATUS_WARNING_BACKGROUND”: [
-“rgba(67, 51, 26, 0.65)”
+“rgba(58, 46, 22, 0.65)”
 ],
 “STATUS_WARNING_TEXT”: [
-“#FFE4AD”
+“#FFE5A8”
 ],
 “TEXT_BRAND”: [
-“#A8D8EA”
+“#A3D8EB”
 ],
 “TEXT_DANGER”: [
-“#F09BA9”
+“#ED9AAA”
 ],
 “TEXT_LINK”: [
-“#9DD3E8”
+“#9BD3E8”
 ],
 “TEXT_LINK_LOW_SATURATION”: [
-“#86B6C9”
+“#82B6CA”
 ],
 “TEXT_LOW_CONTRAST”: [
-“#8FA8B7”
+“#8EA8B7”
 ],
 “TEXT_MESSAGE_PREVIEW_LOW_SAT”: [
-“#A7BCC8”
+“#A7BBC6”
 ],
 “TEXT_MUTED”: [
-“#8299A8”
+“#8097A6”
 ],
 “TEXT_MUTED_ON_DEFAULT”: [
-“#B5C8D2”
+“#B5C8D1”
 ],
 “TEXT_NORMAL”: [
-“#E7F1F5”
+“#E6F0F4”
 ],
 “TEXT_POSITIVE”: [
-“#8BD2AA”
+“#82D2AA”
 ],
 “TEXT_PRIMARY”: [
-“#F4F8FA”
+“#F5F8F9”
 ],
 “TEXT_SECONDARY”: [
-“#C1D1DA”
+“#C1D1D9”
 ],
 “TEXT_WARNING”: [
-“#EBC77B”
+“#EAC77A”
 ],
 “THEME_LOCKED_BLUR_FALLBACK”: [
-“#101D2A”
+“#091823”
 ],
 “THREAD_CHANNEL_SPINE”: [
-“#6EA4BB”
+“#669CB4”
 ],
 “TOAST_BG”: [
-“rgba(15, 28, 43, 0.78)”
+“rgba(8, 21, 33, 0.78)”
 ],
 “TYPING_INDICATOR_BG”: [
-“rgba(18, 37, 54, 0.40)”
+“rgba(12, 31, 46, 0.40)”
 ],
 “USER_PROFILE_HEADER_OVERFLOW_BACKGROUND”: [
-“rgba(15, 30, 48, 0.58)”
+“rgba(10, 25, 40, 0.58)”
 ],
 “VOICE_VIDEO_VIDEO_TILE_BACKGROUND”: [
-“rgba(12, 25, 40, 0.72)”
+“rgba(7, 20, 32, 0.72)”
 ],
 “VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK”: [
-“rgba(12, 25, 40, 0.68)”
+“rgba(7, 20, 32, 0.68)”
 ],
 “WHITE”: [
-“#FAFCFD”
+“#FBFDFD”
 ],
 “SCROLLBAR_THIN_THUMB”: [
-“rgba(125, 184, 207, 0.70)”
+“rgba(126, 185, 208, 0.70)”
 ],
 “SCROLLBAR_THIN_TRACK”: [
-“rgba(10, 24, 38, 0.20)”
+“rgba(5, 18, 29, 0.20)”
 ],
 “SCROLLBAR_AUTO_THUMB”: [
-“rgba(140, 195, 215, 0.72)”
+“rgba(139, 195, 216, 0.72)”
 ],
 “SCROLLBAR_AUTO_TRACK”: [
-“rgba(10, 24, 38, 0.20)”
+“rgba(5, 18, 29, 0.20)”
 ],
 “REDESIGN_BUTTON_TERTIARY_BACKGROUND”: [
-“rgba(17, 35, 52, 0.46)”
+“rgba(15, 34, 50, 0.46)”
 ],
 “REDESIGN_CHAT_INPUT_BACKGROUND”: [
-“rgba(18, 37, 54, 0.45)”
+“rgba(12, 31, 46, 0.45)”
 ],
 “REDESIGN_INPUT_CONTROL_SELECTED”: [
-“rgba(81, 137, 160, 0.68)”
+“rgba(72, 132, 157, 0.68)”
 ],
 “INTERACTIVE_MUTED”: [
-“#536E7D”
+“#506B79”
 ],
 “CHAT_INPUT_CONTAINER_BACKGROUND”: [
-“rgba(18, 37, 54, 0.42)”
+“rgba(12, 31, 46, 0.42)”
 ],
 “MENTION_BADGE”: [
-“#E79AA8”
+“#E895A5”
 ],
 “REDESIGN_MENTION_BADGE”: [
-“#E79AA8”
+“#E895A5”
 ]
 },
 
 “rawColors”: {
 “BLACK_500”: “#00000080”,
-“BRAND_260”: “#D8F1FA”,
-“BRAND_360”: “#A8D8EA”,
-“BRAND_500”: “#78B8D0”,
-“BRAND_560”: “#4F879E”,
-“ORANGE_260”: “#FFE8C2”,
-“ORANGE_300”: “#FFDC9D”,
-“ORANGE_330”: “#F7CD7C”,
-“ORANGE_345”: “#F0BE69”,
-“ORANGE_360”: “#E7B56A”,
-“ORANGE_400”: “#D19B50”,
-“ORANGE_430”: “#BA8442”,
-“ORANGE_460”: “#A06F38”,
-“ORANGE_500”: “#875B31”,
-“ORANGE_530”: “#714B2B”,
-“ORANGE_560”: “#5D3D25”,
-“ORANGE_600”: “#4A311F”,
-“ORANGE_630”: “#39261A”,
+“BRAND_260”: “#D8F1F8”,
+“BRAND_360”: “#A3D8EB”,
+“BRAND_500”: “#78B7CF”,
+“BRAND_560”: “#4D8299”,
+“ORANGE_260”: “#FFEAC8”,
+“ORANGE_300”: “#FFE0A9”,
+“ORANGE_330”: “#F8D18A”,
+“ORANGE_345”: “#F0C274”,
+“ORANGE_360”: “#E6B66E”,
+“ORANGE_400”: “#D29C52”,
+“ORANGE_430”: “#BA8543”,
+“ORANGE_460”: “#A06F39”,
+“ORANGE_500”: “#875D31”,
+“ORANGE_530”: “#714C2A”,
+“ORANGE_560”: “#5D3E25”,
+“ORANGE_600”: “#4A321F”,
+“ORANGE_630”: “#39271A”,
 “ORANGE_660”: “#2A1D15”,
 “ORANGE_700”: “#1D1510”,
-“YELLOW_260”: “#FFF2C7”,
-“YELLOW_300”: “#FFE8A8”,
-“YELLOW_330”: “#FFE095”,
-“YELLOW_345”: “#F7D483”,
-“YELLOW_360”: “#EBC77B”,
-“YELLOW_400”: “#D4B164”,
-“YELLOW_430”: “#B99A56”,
-“YELLOW_460”: “#9E824A”,
-“YELLOW_500”: “#846D3F”,
+“YELLOW_260”: “#FFF4CF”,
+“YELLOW_300”: “#FFEBB0”,
+“YELLOW_330”: “#FFE39A”,
+“YELLOW_345”: “#F8D786”,
+“YELLOW_360”: “#EAC77A”,
+“YELLOW_400”: “#D4B265”,
+“YELLOW_430”: “#B99A57”,
+“YELLOW_460”: “#9E824B”,
+“YELLOW_500”: “#846E40”,
 “YELLOW_530”: “#6B5936”,
 “YELLOW_560”: “#57492E”,
 “YELLOW_600”: “#463B27”,
 “YELLOW_630”: “#382F21”,
 “YELLOW_660”: “#2A241A”,
 “YELLOW_700”: “#1D1913”,
-“RED_430”: “#E79AA8”,
-“PLUM_14”: “#182D3E”,
-“PLUM_1”: “#F4F8FA”,
-“PLUM_22”: “#08131E”,
-“PLUM_15”: “#102232”,
-“PLUM_17”: “#172D40”,
-“PLUM_18”: “#0C1A27”,
-“PLUM_19”: “#0A1723”,
-“PLUM_20”: “#1A3447”,
-“PLUM_23”: “#112637”,
-“PLUM_24”: “#163044”,
-“PRIMARY_800”: “#1A3447”,
-“PRIMARY_660”: “#112637”,
-“PRIMARY_700”: “#172D40”,
-“PRIMARY_560”: “#1B3A4D”,
-“PRIMARY_600”: “#163044”,
-“PRIMARY_630”: “#102232”
+“RED_430”: “#E895A5”,
+“PLUM_14”: “#172E3F”,
+“PLUM_1”: “#F5F8F9”,
+“PLUM_22”: “#07131E”,
+“PLUM_15”: “#0F2231”,
+“PLUM_17”: “#162C3D”,
+“PLUM_18”: “#0B1925”,
+“PLUM_19”: “#091620”,
+“PLUM_20”: “#193447”,
+“PLUM_23”: “#102536”,
+“PLUM_24”: “#153044”,
+“PRIMARY_800”: “#193447”,
+“PRIMARY_660”: “#102536”,
+“PRIMARY_700”: “#162C3D”,
+“PRIMARY_560”: “#1A394B”,
+“PRIMARY_600”: “#153044”,
+“PRIMARY_630”: “#0F2231”
 },
 
 “background”: {
-“url”: “https://user14649.na.imgto.link/public/20260831/img-0507.avif”,
+“url”: “https://wallpapercave.com/wp/wp5831788.jpg”,
 “blur”: 0.15,
 “alpha”: 1,
 “size”: “cover”,
