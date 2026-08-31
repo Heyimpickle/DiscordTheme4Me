@@ -1,6 +1,6 @@
 {
-  "name": "Call of the Night - Custom DMs",
-  "description": "A vibrant translucent neon-purple Call of the Night theme with heavily customized mobile DMs list styling, unread states, and visual hierarchy.",
+  "name": "Call of the Night",
+  "description": "A vibrant translucent neon-purple Call of the Night theme for Bunny.",
   "authors": [
     {
       "name": "Alex",
@@ -8,41 +8,17 @@
     }
   ],
   "semanticColors": {
-    "BACKGROUND_PRIMARY": [
-      "rgba(0, 0, 0, 0.55)"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "rgba(10, 3, 16, 0.45)"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "rgba(8, 2, 14, 0.50)"
-    ],
     "BACKGROUND_TERTIARY": [
-      "rgba(5, 1, 10, 0.42)"
+      "rgba(0, 0, 0, 0.52)"
     ],
     "BACKGROUND_ACCENT": [
       "rgba(0, 0, 0, 0.62)"
     ],
-    "BACKGROUND_FLOATING": [
-      "rgba(0, 0, 0, 0.65)"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "rgba(0, 0, 0, 0.58)"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "rgba(10, 3, 16, 0.50)"
+    "BACKGROUND_SECONDARY": [
+      "rgba(0, 0, 0, 0.48)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(10, 3, 16, 0.48)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(215, 123, 255, 0.20)"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(215, 123, 255, 0.12)"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(215, 123, 255, 0.25)"
     ],
     "DIVIDER_STRONG": [
       "rgba(174, 83, 219, 0.38)"
@@ -123,7 +99,7 @@
       "#A990B5"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#9D8BA8"
+      "#B39CBD"
     ],
     "TEXT_MUTED": [
       "#92799F"
@@ -194,15 +170,6 @@
     "INTERACTIVE_MUTED": [
       "#513961"
     ],
-    "INTERACTIVE_NORMAL": [
-      "#7B5F8F"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#9B7DB3"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#D77BFF"
-    ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
       "rgba(0, 0, 0, 0.42)"
     ],
@@ -211,12 +178,6 @@
     ],
     "REDESIGN_MENTION_BADGE": [
       "#FF5C91"
-    ],
-    "UNREAD_BACKGROUND": [
-      "rgba(215, 123, 255, 0.18)"
-    ],
-    "UNREAD_BORDER": [
-      "#D77BFF"
     ]
   },
 
@@ -272,11 +233,7 @@
     "PRIMARY_700": "#10071A",
     "PRIMARY_560": "#24102F",
     "PRIMARY_600": "#1C0C29",
-    "PRIMARY_630": "#170A21",
-    "GREEN_360": "#67E6A1",
-    "GREEN_330": "#7BFFB0",
-    "PINK_360": "#FF5C91",
-    "PINK_300": "#FF8CAA"
+    "PRIMARY_630": "#170A21"
   },
 
   "background": {
@@ -292,22 +249,7 @@
     "iconpack": "solar"
   },
 
-  "customization": {
-    "dmsListEnhancements": {
-      "summary": "Mobile DMs list now has distinct visual states, improved color hierarchy, and better unread message prominence",
-      "changes": {
-        "baseBackground": "Darker, more opaque base for better contrast",
-        "hoverState": "Purple glow with increased opacity for clear interaction feedback",
-        "activeState": "Strong purple highlight to show selected DM",
-        "unreadState": "Purple tinted background with left border accent for visual distinction",
-        "textHierarchy": "Enhanced contrast between usernames and message previews",
-        "statusIndicators": "Brighter green online status, more visible offline state"
-      }
-    }
-  },
-
   "spec": 2,
   "createdAt": "2026-08-31",
-  "source": "local",
-  "notes": "Fully customized DMs list with enhanced colors, unread states, hover effects, and mobile-optimized visual hierarchy"
+  "source": "local"
 }
