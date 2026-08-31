@@ -1,6 +1,6 @@
 {
-“name”: “Call of the Night - DM Glass”,
-“description”: “Call of the Night mobile theme with a translucent neon-purple DM conversation list.”,
+“name”: “Call of the Night”,
+“description”: “A vibrant translucent neon-purple Call of the Night theme for Bunny with a glass-style DM conversation list.”,
 “authors”: [
 {
 “name”: “Alex”,
@@ -9,66 +9,87 @@
 ],
 
 “semanticColors”: {
-“BACKGROUND_PRIMARY”: [
-“rgba(5, 2, 10, 0.08)”
-],
-“BACKGROUND_SECONDARY”: [
-“rgba(5, 2, 10, 0.10)”
-],
 “BACKGROUND_TERTIARY”: [
-“rgba(5, 2, 10, 0.08)”
-],
-“BACKGROUND_ACCENT”: [
-“rgba(126, 54, 170, 0.20)”
+“rgba(9, 5, 16, 0.30)”
 ],
 
+"BACKGROUND_ACCENT": [
+  "rgba(24, 10, 38, 0.55)"
+],
+"BACKGROUND_SECONDARY": [
+  "rgba(9, 5, 16, 0.24)"
+],
 "BACKGROUND_MODIFIER_ACCENT": [
-  "rgba(190, 91, 240, 0.16)"
-],
-"BACKGROUND_MODIFIER_HOVER": [
-  "rgba(190, 91, 240, 0.13)"
-],
-"BACKGROUND_MODIFIER_ACTIVE": [
-  "rgba(190, 91, 240, 0.22)"
-],
-"BACKGROUND_MODIFIER_SELECTED": [
-  "rgba(174, 83, 219, 0.28)"
-],
-"DIVIDER_STRONG": [
-  "rgba(210, 125, 255, 0.35)"
-],
-"DIVIDER_SUBTLE": [
   "rgba(174, 83, 219, 0.16)"
 ],
+"DIVIDER_STRONG": [
+  "rgba(174, 83, 219, 0.40)"
+],
+"DIVIDER_SUBTLE": [
+  "rgba(116, 52, 148, 0.20)"
+],
 "BORDER_SUBTLE": [
-  "rgba(210, 125, 255, 0.18)"
+  "rgba(174, 83, 219, 0.24)"
 ],
 "SPINE_DEFAULT": [
   "#A247D1"
 ],
-"TEXT_PRIMARY": [
-  "#FFF3FF"
+"SPOILER_HIDDEN_BACKGROUND": [
+  "rgba(0, 0, 0, 0.60)"
 ],
-"TEXT_NORMAL": [
-  "#EBDDF4"
+"SPOILER_REVEALED_BACKGROUND": [
+  "rgba(0, 0, 0, 0.40)"
 ],
-"TEXT_SECONDARY": [
-  "#CDB6D8"
+"STAGE_CARD_PILL_BG": [
+  "rgba(0, 0, 0, 0.58)"
 ],
-"TEXT_MUTED": [
-  "#A990B5"
+"STATUS_DANGER": [
+  "#FF5C9A"
 ],
-"TEXT_MUTED_ON_DEFAULT": [
-  "#C1A8CA"
+"STATUS_DANGER_BACKGROUND": [
+  "rgba(56, 19, 35, 0.65)"
 ],
-"TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-  "#BFA8C7"
+"STATUS_DANGER_TEXT": [
+  "#FFB8CE"
 ],
-"TEXT_LOW_CONTRAST": [
-  "#A990B5"
+"STATUS_DND": [
+  "#FF5C91"
+],
+"STATUS_IDLE": [
+  "#FFB65C"
+],
+"STATUS_OFFLINE": [
+  "#51445A"
+],
+"STATUS_ONLINE": [
+  "#67E6A1"
+],
+"STATUS_POSITIVE": [
+  "#67E6A1"
+],
+"STATUS_POSITIVE_BACKGROUND": [
+  "rgba(16, 45, 33, 0.65)"
+],
+"STATUS_POSITIVE_TEXT": [
+  "#A6F3C5"
+],
+"STATUS_SPEAKING": [
+  "#D77BFF"
+],
+"STATUS_WARNING": [
+  "#FFD166"
+],
+"STATUS_WARNING_BACKGROUND": [
+  "rgba(51, 37, 16, 0.65)"
+],
+"STATUS_WARNING_TEXT": [
+  "#FFE3A0"
 ],
 "TEXT_BRAND": [
   "#D77BFF"
+],
+"TEXT_DANGER": [
+  "#FF679A"
 ],
 "TEXT_LINK": [
   "#D77BFF"
@@ -76,119 +97,95 @@
 "TEXT_LINK_LOW_SATURATION": [
   "#B783CC"
 ],
-"STATUS_ONLINE": [
-  "#67E6A1"
+"TEXT_LOW_CONTRAST": [
+  "#A990B5"
 ],
-"STATUS_IDLE": [
-  "#FFB65C"
+"TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+  "#B39CBD"
 ],
-"STATUS_DND": [
-  "#FF5C91"
+"TEXT_MUTED": [
+  "#92799F"
 ],
-"STATUS_OFFLINE": [
-  "#51445A"
+"TEXT_MUTED_ON_DEFAULT": [
+  "#BCA5C7"
 ],
-"STATUS_SPEAKING": [
-  "#D77BFF"
+"TEXT_NORMAL": [
+  "#EBDDF4"
 ],
-"STATUS_POSITIVE": [
-  "#67E6A1"
+"TEXT_POSITIVE": [
+  "#7DE8AA"
 ],
-"STATUS_WARNING": [
+"TEXT_PRIMARY": [
+  "#F6E9FF"
+],
+"TEXT_SECONDARY": [
+  "#C3ADCF"
+],
+"TEXT_WARNING": [
   "#FFD166"
 ],
-"STATUS_DANGER": [
-  "#FF5C9A"
+"THEME_LOCKED_BLUR_FALLBACK": [
+  "#000000"
 ],
-"STATUS_POSITIVE_BACKGROUND": [
-  "rgba(16, 45, 33, 0.40)"
+"THREAD_CHANNEL_SPINE": [
+  "#783A96"
 ],
-"STATUS_WARNING_BACKGROUND": [
-  "rgba(51, 37, 16, 0.40)"
+"TOAST_BG": [
+  "rgba(0, 0, 0, 0.78)"
 ],
-"STATUS_DANGER_BACKGROUND": [
-  "rgba(56, 19, 35, 0.40)"
+"TYPING_INDICATOR_BG": [
+  "rgba(0, 0, 0, 0.40)"
 ],
-"STATUS_POSITIVE_TEXT": [
-  "#A6F3C5"
+"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+  "rgba(0, 0, 0, 0.58)"
 ],
-"STATUS_WARNING_TEXT": [
-  "#FFE3A0"
+"VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+  "rgba(0, 0, 0, 0.72)"
 ],
-"STATUS_DANGER_TEXT": [
-  "#FFB8CE"
+"VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+  "rgba(0, 0, 0, 0.68)"
+],
+"WHITE": [
+  "#F9F0FF"
+],
+"SCROLLBAR_THIN_THUMB": [
+  "rgba(167, 78, 207, 0.70)"
+],
+"SCROLLBAR_THIN_TRACK": [
+  "rgba(0, 0, 0, 0.20)"
+],
+"SCROLLBAR_AUTO_THUMB": [
+  "rgba(178, 84, 220, 0.72)"
+],
+"SCROLLBAR_AUTO_TRACK": [
+  "rgba(0, 0, 0, 0.20)"
+],
+"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+  "rgba(0, 0, 0, 0.46)"
+],
+"REDESIGN_CHAT_INPUT_BACKGROUND": [
+  "rgba(0, 0, 0, 0.45)"
+],
+"REDESIGN_INPUT_CONTROL_SELECTED": [
+  "rgba(94, 35, 125, 0.68)"
+],
+"INTERACTIVE_MUTED": [
+  "#513961"
+],
+"CHAT_INPUT_CONTAINER_BACKGROUND": [
+  "rgba(0, 0, 0, 0.42)"
 ],
 "MENTION_BADGE": [
   "#FF5C91"
 ],
 "REDESIGN_MENTION_BADGE": [
   "#FF5C91"
-],
-"INTERACTIVE_MUTED": [
-  "#694875"
-],
-"TOAST_BG": [
-  "rgba(5, 2, 10, 0.65)"
-],
-"TYPING_INDICATOR_BG": [
-  "rgba(5, 2, 10, 0.12)"
-],
-"CHAT_INPUT_CONTAINER_BACKGROUND": [
-  "rgba(5, 2, 10, 0.16)"
-],
-"REDESIGN_CHAT_INPUT_BACKGROUND": [
-  "rgba(5, 2, 10, 0.16)"
-],
-"REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-  "rgba(174, 83, 219, 0.16)"
-],
-"REDESIGN_INPUT_CONTROL_SELECTED": [
-  "rgba(126, 54, 170, 0.35)"
-],
-"USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-  "rgba(5, 2, 10, 0.25)"
-],
-"VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-  "rgba(5, 2, 10, 0.55)"
-],
-"VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-  "rgba(5, 2, 10, 0.50)"
-],
-"SPOILER_HIDDEN_BACKGROUND": [
-  "rgba(5, 2, 10, 0.55)"
-],
-"SPOILER_REVEALED_BACKGROUND": [
-  "rgba(5, 2, 10, 0.25)"
-],
-"STAGE_CARD_PILL_BG": [
-  "rgba(5, 2, 10, 0.30)"
-],
-"THREAD_CHANNEL_SPINE": [
-  "#783A96"
-],
-"THEME_LOCKED_BLUR_FALLBACK": [
-  "#000000"
-],
-"WHITE": [
-  "#F9F0FF"
-],
-"SCROLLBAR_THIN_THUMB": [
-  "rgba(178, 84, 220, 0.55)"
-],
-"SCROLLBAR_THIN_TRACK": [
-  "rgba(0, 0, 0, 0.08)"
-],
-"SCROLLBAR_AUTO_THUMB": [
-  "rgba(178, 84, 220, 0.58)"
-],
-"SCROLLBAR_AUTO_TRACK": [
-  "rgba(0, 0, 0, 0.08)"
 ]
 
 },
 
 “rawColors”: {
-“BLACK_500”: “#00000020”,
+“BLACK_500”: “#00000080”,
 
 "BRAND_260": "#E9B5FF",
 "BRAND_360": "#D77BFF",
