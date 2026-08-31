@@ -1,6 +1,6 @@
 {
   "name": "Call of the Night",
-  "description": "A neon purple Call of the Night inspired theme.",
+  "description": "A neon purple Call of the Night theme for Bunny.",
   "authors": [
     {
       "name": "Alex",
@@ -8,205 +8,93 @@
     }
   ],
   "semanticColors": {
-    "BACKGROUND_TERTIARY": [
-      "#13091F"
-    ],
-    "BACKGROUND_ACCENT": [
-      "#241039"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#0B0612"
-    ],
-    "BACKGROUND_MODIFIER_ACCENT": [
-      "#32144D"
-    ],
-    "DIVIDER_STRONG": [
-      "#35164D"
-    ],
-    "DIVIDER_SUBTLE": [
-      "#1D0C2C"
-    ],
-    "BORDER_SUBTLE": [
-      "#2A123D"
-    ],
-    "SPINE_DEFAULT": [
-      "#7B3FA0"
-    ],
-    "SPOILER_HIDDEN_BACKGROUND": [
-      "#21102F"
-    ],
-    "SPOILER_REVEALED_BACKGROUND": [
-      "#160A22"
-    ],
-    "STAGE_CARD_PILL_BG": [
-      "#241039"
-    ],
+    "BACKGROUND_TERTIARY": ["#14091F"],
+    "BACKGROUND_ACCENT": ["#26103A"],
+    "BACKGROUND_SECONDARY": ["#090510"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#35134D"],
+    "DIVIDER_STRONG": ["#3A1652"],
+    "DIVIDER_SUBTLE": ["#1C0B29"],
+    "BORDER_SUBTLE": ["#2A123C"],
+    "SPINE_DEFAULT": ["#8A42A8"],
 
-    "STATUS_DANGER": [
-      "#FF5C91"
-    ],
-    "STATUS_DANGER_BACKGROUND": [
-      "#351321"
-    ],
-    "STATUS_DANGER_TEXT": [
-      "#FFB5C9"
-    ],
-    "STATUS_DND": [
-      "#FF5C91"
-    ],
-    "STATUS_IDLE": [
-      "#FFB45C"
-    ],
-    "STATUS_OFFLINE": [
-      "#494052"
-    ],
-    "STATUS_ONLINE": [
-      "#67E6A1"
-    ],
+    "SPOILER_HIDDEN_BACKGROUND": ["#24102F"],
+    "SPOILER_REVEALED_BACKGROUND": ["#170A21"],
+    "STAGE_CARD_PILL_BG": ["#24102F"],
 
-    "STATUS_POSITIVE": [
-      "#67E6A1"
-    ],
-    "STATUS_POSITIVE_BACKGROUND": [
-      "#102D21"
-    ],
-    "STATUS_POSITIVE_TEXT": [
-      "#A5F3C5"
-    ],
-    "STATUS_SPEAKING": [
-      "#D77BFF"
-    ],
-    "STATUS_WARNING": [
-      "#FFD166"
-    ],
-    "STATUS_WARNING_BACKGROUND": [
-      "#332610"
-    ],
-    "STATUS_WARNING_TEXT": [
-      "#FFE3A0"
-    ],
+    "STATUS_DANGER": ["#FF5C9A"],
+    "STATUS_DANGER_BACKGROUND": ["#381323"],
+    "STATUS_DANGER_TEXT": ["#FFB8CE"],
+    "STATUS_DND": ["#FF5C91"],
+    "STATUS_IDLE": ["#FFB65C"],
+    "STATUS_OFFLINE": ["#51445A"],
+    "STATUS_ONLINE": ["#67E6A1"],
 
-    "TEXT_BRAND": [
-      "#D77BFF"
-    ],
-    "TEXT_DANGER": [
-      "#FF6B9A"
-    ],
-    "TEXT_LINK": [
-      "#C978FF"
-    ],
-    "TEXT_LINK_LOW_SATURATION": [
-      "#A77BC0"
-    ],
-    "TEXT_LOW_CONTRAST": [
-      "#9B89A8"
-    ],
-    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#A894B5"
-    ],
-    "TEXT_MUTED": [
-      "#83728F"
-    ],
-    "TEXT_MUTED_ON_DEFAULT": [
-      "#B7A4C1"
-    ],
-    "TEXT_NORMAL": [
-      "#E9DDF2"
-    ],
-    "TEXT_POSITIVE": [
-      "#7DE8AA"
-    ],
-    "TEXT_PRIMARY": [
-      "#F5E9FF"
-    ],
-    "TEXT_SECONDARY": [
-      "#BCA8C8"
-    ],
-    "TEXT_WARNING": [
-      "#FFD166"
-    ],
+    "STATUS_POSITIVE": ["#67E6A1"],
+    "STATUS_POSITIVE_BACKGROUND": ["#102D21"],
+    "STATUS_POSITIVE_TEXT": ["#A6F3C5"],
+    "STATUS_SPEAKING": ["#D77BFF"],
 
-    "THEME_LOCKED_BLUR_FALLBACK": [
-      "#0B0612"
-    ],
-    "THREAD_CHANNEL_SPINE": [
-      "#713A91"
-    ],
-    "TOAST_BG": [
-      "#12081D"
-    ],
-    "TYPING_INDICATOR_BG": [
-      "#10071A"
-    ],
-    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#13091F"
-    ],
-    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "#090510"
-    ],
-    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "#13091F"
-    ],
+    "STATUS_WARNING": ["#FFD166"],
+    "STATUS_WARNING_BACKGROUND": ["#332510"],
+    "STATUS_WARNING_TEXT": ["#FFE3A0"],
 
-    "WHITE": [
-      "#F8F0FF"
-    ],
+    "TEXT_BRAND": ["#D77BFF"],
+    "TEXT_DANGER": ["#FF679A"],
+    "TEXT_LINK": ["#C86DFF"],
+    "TEXT_LINK_LOW_SATURATION": ["#A77BC0"],
+    "TEXT_LOW_CONTRAST": ["#9A86A7"],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": ["#AA96B7"],
+    "TEXT_MUTED": ["#81708D"],
+    "TEXT_MUTED_ON_DEFAULT": ["#B8A3C3"],
+    "TEXT_NORMAL": ["#EBDD F4"],
+    "TEXT_POSITIVE": ["#7DE8AA"],
+    "TEXT_PRIMARY": ["#F6E9FF"],
+    "TEXT_SECONDARY": ["#BEA9C9"],
+    "TEXT_WARNING": ["#FFD166"],
 
-    "SCROLLBAR_THIN_THUMB": [
-      "#69358A"
-    ],
-    "SCROLLBAR_THIN_TRACK": [
-      "#090510"
-    ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#75409A"
-    ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "#0B0612"
-    ],
+    "THEME_LOCKED_BLUR_FALLBACK": ["#090510"],
+    "THREAD_CHANNEL_SPINE": ["#783A96"],
+    "TOAST_BG": ["#12081C"],
+    "TYPING_INDICATOR_BG": ["#10071A"],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": ["#14091F"],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": ["#08040E"],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": ["#14091F"],
 
-    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#1A0C28"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#0C0614"
-    ],
-    "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "#3A1953"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#513A60"
-    ],
-    "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "#0B0612"
-    ],
+    "WHITE": ["#F9F0FF"],
 
-    "MENTION_BADGE": [
-      "#FF5C91"
-    ],
-    "REDESIGN_MENTION_BADGE": [
-      "#FF5C91"
-    ]
+    "SCROLLBAR_THIN_THUMB": ["#6E358C"],
+    "SCROLLBAR_THIN_TRACK": ["#090510"],
+    "SCROLLBAR_AUTO_THUMB": ["#793A9A"],
+    "SCROLLBAR_AUTO_TRACK": ["#0B0612"],
+
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#1C0C29"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#0C0613"],
+    "REDESIGN_INPUT_CONTROL_SELECTED": ["#3D1955"],
+    "INTERACTIVE_MUTED": ["#513961"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#0B0612"],
+
+    "MENTION_BADGE": ["#FF5C91"],
+    "REDESIGN_MENTION_BADGE": ["#FF5C91"]
   },
 
   "rawColors": {
     "BLACK_500": "#00000080",
 
-    "BRAND_260": "#E5A8FF",
+    "BRAND_260": "#E9B5FF",
     "BRAND_360": "#D77BFF",
-    "BRAND_500": "#9B45D0",
-    "BRAND_560": "#6D2D91",
+    "BRAND_500": "#A247D1",
+    "BRAND_560": "#702E92",
 
-    "ORANGE_260": "#FFE1B0",
-    "ORANGE_300": "#FFD08A",
-    "ORANGE_330": "#FFC46D",
+    "ORANGE_260": "#FFE2B3",
+    "ORANGE_300": "#FFD28C",
+    "ORANGE_330": "#FFC56D",
     "ORANGE_345": "#FFBA5C",
-    "ORANGE_360": "#FFB45C",
-    "ORANGE_400": "#E69B43",
-    "ORANGE_430": "#D88935",
-    "ORANGE_460": "#C4772C",
-    "ORANGE_500": "#A96124",
-    "ORANGE_530": "#8E4E20",
+    "ORANGE_360": "#FFB65C",
+    "ORANGE_400": "#E69D45",
+    "ORANGE_430": "#D68A36",
+    "ORANGE_460": "#C2782D",
+    "ORANGE_500": "#A96225",
+    "ORANGE_530": "#8E4F20",
     "ORANGE_560": "#743F1B",
     "ORANGE_600": "#5E3218",
     "ORANGE_630": "#4B2915",
@@ -231,29 +119,29 @@
 
     "RED_430": "#FF5C91",
 
-    "PLUM_14": "#241039",
-    "PLUM_1": "#F5E9FF",
-    "PLUM_15": "#160A22",
+    "PLUM_14": "#26103A",
+    "PLUM_1": "#F6E9FF",
+    "PLUM_22": "#07040D",
+    "PLUM_15": "#170A21",
     "PLUM_17": "#10071A",
     "PLUM_18": "#0D0616",
     "PLUM_19": "#0B0612",
     "PLUM_20": "#090510",
-    "PLUM_22": "#07040D",
-    "PLUM_23": "#13091F",
-    "PLUM_24": "#1A0C28",
+    "PLUM_23": "#14091F",
+    "PLUM_24": "#1C0C29",
 
     "PRIMARY_800": "#090510",
-    "PRIMARY_660": "#13091F",
-    "PRIMARY_700": "#0F0718",
-    "PRIMARY_560": "#21102F",
-    "PRIMARY_600": "#1A0C28",
-    "PRIMARY_630": "#160A22"
+    "PRIMARY_660": "#14091F",
+    "PRIMARY_700": "#10071A",
+    "PRIMARY_560": "#24102F",
+    "PRIMARY_600": "#1C0C29",
+    "PRIMARY_630": "#170A21"
   },
 
   "background": {
-    "url": "https://i.kym-cdn.com/photos/images/newsfeed/003/054/871/5ee.gif",
+    "url": "https://media1.tenor.com/m/Tw-rv8Y8dewAAAAd/nazuna-nanakusa-call-of-the-night.gif",
     "blur": 0.5,
-    "alpha": 0.25,
+    "alpha": 0.22,
     "size": "cover",
     "position": "center"
   },
