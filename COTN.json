@@ -255,7 +255,7 @@
   "background": {
     "url": "https://i.pinimg.com/736x/05/3c/d6/053cd6e47a2382529d0d9b00e7abe08d.jpg?utm_source=chatgpt.com",
     "blur": 0.15,
-    "alpha": 0.4,
+    "alpha": 1,
     "size": "cover",
     "position": "center"
   },
