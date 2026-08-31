@@ -1,158 +1,269 @@
 {
-  "name": "CallOfTheNight",
-  "description": "Call of the Night inspired neon purple nightlife theme.",
-  "version": "1.0",
+  "name": "Call of the Night",
+  "description": "A neon purple Call of the Night inspired theme.",
   "authors": [
     {
       "name": "Alex",
       "id": "000000000000000000"
     }
   ],
-  "theme_color_map": {
-    "HEADER_PRIMARY": [
-      "#f7e9ff",
-      "#2b1838"
-    ],
-    "HEADER_SECONDARY": [
-      "#d0a9e8",
-      "#6d527c"
-    ],
-    "TEXT_NORMAL": [
-      "#eadcf5",
-      "#302338"
-    ],
-    "TEXT_MUTED": [
-      "#a98fb8",
-      "#76627f"
-    ],
-    "INTERACTIVE_NORMAL": [
-      "#c76cff",
-      "#75429a"
-    ],
-    "INTERACTIVE_HOVER": [
-      "#df8cff",
-      "#62347f"
-    ],
-    "INTERACTIVE_ACTIVE": [
-      "#eeadff",
-      "#4d2868"
-    ],
-    "INTERACTIVE_MUTED": [
-      "#765c82",
-      "#9b8aa3"
-    ],
-    "BACKGROUND_PRIMARY": [
-      "#090511",
-      "#f5eff8"
-    ],
-    "BACKGROUND_SECONDARY": [
-      "#10071b",
-      "#eee7f2"
-    ],
-    "BACKGROUND_SECONDARY_ALT": [
-      "#160a25",
-      "#e6ddea"
-    ],
+  "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "#210d34",
-      "#dcd0e2"
+      "#13091F"
     ],
     "BACKGROUND_ACCENT": [
-      "#7b2fa8",
-      "#8b5aaa"
+      "#241039"
     ],
-    "BACKGROUND_FLOATING": [
-      "#120820",
-      "#f1eaf4"
-    ],
-    "BACKGROUND_MOBILE_PRIMARY": [
-      "#090511",
-      "#f5eff8"
-    ],
-    "BACKGROUND_MOBILE_SECONDARY": [
-      "#10071b",
-      "#eee7f2"
-    ],
-    "BACKGROUND_NESTED_FLOATING": [
-      "#160a25",
-      "#e6ddea"
-    ],
-    "BACKGROUND_MESSAGE_HOVER": [
-      "rgba(190, 75, 255, 0.08)",
-      "#FFFFFF"
-    ],
-    "BACKGROUND_MODIFIER_HOVER": [
-      "rgba(190, 75, 255, 0.08)",
-      "hsla(280, 40%, 50%, 0.08)"
-    ],
-    "BACKGROUND_MODIFIER_ACTIVE": [
-      "rgba(210, 90, 255, 0.12)",
-      "hsla(280, 40%, 50%, 0.16)"
-    ],
-    "BACKGROUND_MODIFIER_SELECTED": [
-      "rgba(220, 100, 255, 0.16)",
-      "hsla(280, 40%, 50%, 0.24)"
+    "BACKGROUND_SECONDARY": [
+      "#0B0612"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "transparent",
-      "hsla(280, 40%, 50%, 0.08)"
+      "#32144D"
     ],
-    "SCROLLBAR_THIN_THUMB": [
-      "#5b2878",
-      "hsla(280, 30%, 40%, 0.3)"
+    "DIVIDER_STRONG": [
+      "#35164D"
     ],
-    "SCROLLBAR_THIN_TRACK": [
-      "transparent",
-      "hsla(0, 0%, 0%, 0)"
+    "DIVIDER_SUBTLE": [
+      "#1D0C2C"
     ],
-    "SCROLLBAR_AUTO_THUMB": [
-      "#6e2d91",
-      "#b999c8"
+    "BORDER_SUBTLE": [
+      "#2A123D"
     ],
-    "SCROLLBAR_AUTO_TRACK": [
-      "rgba(0, 0, 0, 0.1)",
-      "#f2f2f2"
+    "SPINE_DEFAULT": [
+      "#7B3FA0"
     ],
-    "CHANNELTEXTAREA_BACKGROUND": [
-      "#0d0617",
-      "#e8e0ed"
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#21102F"
     ],
-    "CHANNELS_DEFAULT": [
-      "#9d82aa",
-      "#5e4b68"
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#160A22"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "#241039"
+    ],
+
+    "STATUS_DANGER": [
+      "#FF5C91"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#351321"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFB5C9"
+    ],
+    "STATUS_DND": [
+      "#FF5C91"
+    ],
+    "STATUS_IDLE": [
+      "#FFB45C"
+    ],
+    "STATUS_OFFLINE": [
+      "#494052"
+    ],
+    "STATUS_ONLINE": [
+      "#67E6A1"
+    ],
+
+    "STATUS_POSITIVE": [
+      "#67E6A1"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "#102D21"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#A5F3C5"
+    ],
+    "STATUS_SPEAKING": [
+      "#D77BFF"
+    ],
+    "STATUS_WARNING": [
+      "#FFD166"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "#332610"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#FFE3A0"
+    ],
+
+    "TEXT_BRAND": [
+      "#D77BFF"
+    ],
+    "TEXT_DANGER": [
+      "#FF6B9A"
     ],
     "TEXT_LINK": [
-      "#d56cff",
-      "#7b3fa1"
+      "#C978FF"
     ],
-    "KEYBOARD": [
-      "#0b0612",
-      "#160b20"
+    "TEXT_LINK_LOW_SATURATION": [
+      "#A77BC0"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#9B89A8"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#A894B5"
+    ],
+    "TEXT_MUTED": [
+      "#83728F"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#B7A4C1"
+    ],
+    "TEXT_NORMAL": [
+      "#E9DDF2"
+    ],
+    "TEXT_POSITIVE": [
+      "#7DE8AA"
+    ],
+    "TEXT_PRIMARY": [
+      "#F5E9FF"
+    ],
+    "TEXT_SECONDARY": [
+      "#BCA8C8"
+    ],
+    "TEXT_WARNING": [
+      "#FFD166"
+    ],
+
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#0B0612"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#713A91"
+    ],
+    "TOAST_BG": [
+      "#12081D"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "#10071A"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "#13091F"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "#090510"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "#13091F"
+    ],
+
+    "WHITE": [
+      "#F8F0FF"
+    ],
+
+    "SCROLLBAR_THIN_THUMB": [
+      "#69358A"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#090510"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#75409A"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#0B0612"
+    ],
+
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#1A0C28"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#0C0614"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "#3A1953"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#513A60"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "#0B0612"
+    ],
+
+    "MENTION_BADGE": [
+      "#FF5C91"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#FF5C91"
     ]
   },
-  "colours": {
-    "PRIMARY_DARK": "#74378e",
-    "PRIMARY_DARK_100": "#f8efff",
-    "PRIMARY_DARK_200": "#f2e5fa",
-    "PRIMARY_DARK_300": "#d5b9e2",
-    "PRIMARY_DARK_360": "#c8a5d8",
-    "PRIMARY_DARK_400": "#a979bb",
-    "PRIMARY_DARK_500": "#74378e",
-    "PRIMARY_DARK_600": "#260e3a",
-    "PRIMARY_DARK_630": "#1d0b2c",
-    "PRIMARY_DARK_700": "#12071c",
-    "PRIMARY_DARK_800": "#09040e",
-    "BRAND_NEW": "#c75cff",
-    "STATUS_RED": "#ff5c91",
-    "STATUS_GREEN_600": "#73e6a5",
-    "STATUS_YELLOW": "#ffd166"
+
+  "rawColors": {
+    "BLACK_500": "#00000080",
+
+    "BRAND_260": "#E5A8FF",
+    "BRAND_360": "#D77BFF",
+    "BRAND_500": "#9B45D0",
+    "BRAND_560": "#6D2D91",
+
+    "ORANGE_260": "#FFE1B0",
+    "ORANGE_300": "#FFD08A",
+    "ORANGE_330": "#FFC46D",
+    "ORANGE_345": "#FFBA5C",
+    "ORANGE_360": "#FFB45C",
+    "ORANGE_400": "#E69B43",
+    "ORANGE_430": "#D88935",
+    "ORANGE_460": "#C4772C",
+    "ORANGE_500": "#A96124",
+    "ORANGE_530": "#8E4E20",
+    "ORANGE_560": "#743F1B",
+    "ORANGE_600": "#5E3218",
+    "ORANGE_630": "#4B2915",
+    "ORANGE_660": "#382011",
+    "ORANGE_700": "#27160D",
+
+    "YELLOW_260": "#FFF0B8",
+    "YELLOW_300": "#FFE79A",
+    "YELLOW_330": "#FFDF7A",
+    "YELLOW_345": "#FFD96A",
+    "YELLOW_360": "#FFD166",
+    "YELLOW_400": "#E6B84F",
+    "YELLOW_430": "#CDA342",
+    "YELLOW_460": "#B28D38",
+    "YELLOW_500": "#967532",
+    "YELLOW_530": "#7B602A",
+    "YELLOW_560": "#654E24",
+    "YELLOW_600": "#513F20",
+    "YELLOW_630": "#40321B",
+    "YELLOW_660": "#302516",
+    "YELLOW_700": "#211A11",
+
+    "RED_430": "#FF5C91",
+
+    "PLUM_14": "#241039",
+    "PLUM_1": "#F5E9FF",
+    "PLUM_15": "#160A22",
+    "PLUM_17": "#10071A",
+    "PLUM_18": "#0D0616",
+    "PLUM_19": "#0B0612",
+    "PLUM_20": "#090510",
+    "PLUM_22": "#07040D",
+    "PLUM_23": "#13091F",
+    "PLUM_24": "#1A0C28",
+
+    "PRIMARY_800": "#090510",
+    "PRIMARY_660": "#13091F",
+    "PRIMARY_700": "#0F0718",
+    "PRIMARY_560": "#21102F",
+    "PRIMARY_600": "#1A0C28",
+    "PRIMARY_630": "#160A22"
   },
-  "unsafe_colors": {
-    "CHAT_GREY": "#090511"
-  },
+
   "background": {
-    "blur": 0.4,
     "url": "https://i.kym-cdn.com/photos/images/newsfeed/003/054/871/5ee.gif",
-    "alpha": 0.35
-  }
+    "blur": 0.5,
+    "alpha": 0.25,
+    "size": "cover",
+    "position": "center"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+
+  "spec": 2,
+  "createdAt": "2026-08-31",
+  "source": "local"
 }
