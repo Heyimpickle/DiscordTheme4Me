@@ -1,6 +1,6 @@
 {
   "name": "Call of the Night",
-  "description": "A translucent neon-purple Call of the Night theme for Bunny.",
+  "description": "A vibrant translucent neon-purple Call of the Night theme for Bunny.",
   "authors": [
     {
       "name": "Alex",
@@ -9,40 +9,38 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "rgba(20, 9, 31, 0.38)"
+      "rgba(0, 0, 0, 0.52)"
     ],
     "BACKGROUND_ACCENT": [
-      "rgba(38, 16, 58, 0.55)"
+      "rgba(0, 0, 0, 0.62)"
     ],
     "BACKGROUND_SECONDARY": [
-      "rgba(9, 5, 16, 0.42)"
+      "rgba(0, 0, 0, 0.48)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(53, 19, 77, 0.45)"
+      "rgba(10, 3, 16, 0.48)"
     ],
     "DIVIDER_STRONG": [
-      "rgba(138, 66, 168, 0.35)"
+      "rgba(174, 83, 219, 0.38)"
     ],
     "DIVIDER_SUBTLE": [
-      "rgba(72, 35, 91, 0.22)"
+      "rgba(116, 52, 148, 0.22)"
     ],
     "BORDER_SUBTLE": [
-      "rgba(120, 58, 150, 0.25)"
+      "rgba(174, 83, 219, 0.25)"
     ],
     "SPINE_DEFAULT": [
-      "#8A42A8"
+      "#A247D1"
     ],
-
     "SPOILER_HIDDEN_BACKGROUND": [
-      "rgba(36, 16, 47, 0.65)"
+      "rgba(0, 0, 0, 0.62)"
     ],
     "SPOILER_REVEALED_BACKGROUND": [
-      "rgba(23, 10, 33, 0.45)"
+      "rgba(0, 0, 0, 0.42)"
     ],
     "STAGE_CARD_PILL_BG": [
-      "rgba(36, 16, 47, 0.65)"
+      "rgba(0, 0, 0, 0.62)"
     ],
-
     "STATUS_DANGER": [
       "#FF5C9A"
     ],
@@ -64,7 +62,6 @@
     "STATUS_ONLINE": [
       "#67E6A1"
     ],
-
     "STATUS_POSITIVE": [
       "#67E6A1"
     ],
@@ -77,7 +74,6 @@
     "STATUS_SPEAKING": [
       "#D77BFF"
     ],
-
     "STATUS_WARNING": [
       "#FFD166"
     ],
@@ -87,7 +83,6 @@
     "STATUS_WARNING_TEXT": [
       "#FFE3A0"
     ],
-
     "TEXT_BRAND": [
       "#D77BFF"
     ],
@@ -95,22 +90,22 @@
       "#FF679A"
     ],
     "TEXT_LINK": [
-      "#C86DFF"
+      "#D77BFF"
     ],
     "TEXT_LINK_LOW_SATURATION": [
-      "#A77BC0"
+      "#B783CC"
     ],
     "TEXT_LOW_CONTRAST": [
-      "#9A86A7"
+      "#A990B5"
     ],
     "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
-      "#AA96B7"
+      "#B39CBD"
     ],
     "TEXT_MUTED": [
-      "#917D9E"
+      "#92799F"
     ],
     "TEXT_MUTED_ON_DEFAULT": [
-      "#B8A3C3"
+      "#BCA5C7"
     ],
     "TEXT_NORMAL": [
       "#EBDDF4"
@@ -122,67 +117,62 @@
       "#F6E9FF"
     ],
     "TEXT_SECONDARY": [
-      "#BEA9C9"
+      "#C3ADCF"
     ],
     "TEXT_WARNING": [
       "#FFD166"
     ],
-
     "THEME_LOCKED_BLUR_FALLBACK": [
-      "#090510"
+      "#000000"
     ],
     "THREAD_CHANNEL_SPINE": [
       "#783A96"
     ],
     "TOAST_BG": [
-      "rgba(18, 8, 28, 0.82)"
+      "rgba(0, 0, 0, 0.78)"
     ],
     "TYPING_INDICATOR_BG": [
-      "rgba(16, 7, 26, 0.45)"
+      "rgba(0, 0, 0, 0.40)"
     ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "rgba(20, 9, 31, 0.65)"
+      "rgba(0, 0, 0, 0.58)"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
-      "rgba(8, 4, 14, 0.7)"
+      "rgba(0, 0, 0, 0.72)"
     ],
     "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
-      "rgba(20, 9, 31, 0.7)"
+      "rgba(0, 0, 0, 0.68)"
     ],
-
     "WHITE": [
       "#F9F0FF"
     ],
-
     "SCROLLBAR_THIN_THUMB": [
-      "rgba(126, 63, 157, 0.7)"
+      "rgba(167, 78, 207, 0.70)"
     ],
     "SCROLLBAR_THIN_TRACK": [
-      "rgba(9, 5, 16, 0.2)"
+      "rgba(0, 0, 0, 0.20)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "rgba(135, 67, 170, 0.75)"
+      "rgba(178, 84, 220, 0.72)"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "rgba(11, 6, 18, 0.2)"
+      "rgba(0, 0, 0, 0.20)"
     ],
-
     "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "rgba(28, 12, 41, 0.5)"
+      "rgba(0, 0, 0, 0.46)"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "rgba(12, 6, 19, 0.48)"
+      "rgba(0, 0, 0, 0.45)"
     ],
     "REDESIGN_INPUT_CONTROL_SELECTED": [
-      "rgba(61, 25, 85, 0.7)"
+      "rgba(94, 35, 125, 0.68)"
     ],
     "INTERACTIVE_MUTED": [
       "#513961"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "rgba(11, 6, 18, 0.45)"
+      "rgba(0, 0, 0, 0.42)"
     ],
-
     "MENTION_BADGE": [
       "#FF5C91"
     ],
@@ -193,12 +183,10 @@
 
   "rawColors": {
     "BLACK_500": "#00000080",
-
     "BRAND_260": "#E9B5FF",
     "BRAND_360": "#D77BFF",
     "BRAND_500": "#A247D1",
     "BRAND_560": "#702E92",
-
     "ORANGE_260": "#FFE2B3",
     "ORANGE_300": "#FFD28C",
     "ORANGE_330": "#FFC56D",
@@ -214,7 +202,6 @@
     "ORANGE_630": "#4B2915",
     "ORANGE_660": "#382011",
     "ORANGE_700": "#27160D",
-
     "YELLOW_260": "#FFF0B8",
     "YELLOW_300": "#FFE79A",
     "YELLOW_330": "#FFDF7A",
@@ -230,9 +217,7 @@
     "YELLOW_630": "#40321B",
     "YELLOW_660": "#302516",
     "YELLOW_700": "#211A11",
-
     "RED_430": "#FF5C91",
-
     "PLUM_14": "#26103A",
     "PLUM_1": "#F6E9FF",
     "PLUM_22": "#07040D",
@@ -243,7 +228,6 @@
     "PLUM_20": "#090510",
     "PLUM_23": "#14091F",
     "PLUM_24": "#1C0C29",
-
     "PRIMARY_800": "#090510",
     "PRIMARY_660": "#14091F",
     "PRIMARY_700": "#10071A",
@@ -253,7 +237,7 @@
   },
 
   "background": {
-    "url": "https://i.pinimg.com/736x/05/3c/d6/053cd6e47a2382529d0d9b00e7abe08d.jpg?utm_source=chatgpt.com",
+    "url": "https://i.pinimg.com/736x/05/3c/d6/053cd6e47a2382529d0d9b00e7abe08d.jpg",
     "blur": 0.15,
     "alpha": 1,
     "size": "cover",
