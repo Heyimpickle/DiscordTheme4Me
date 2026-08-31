@@ -1,0 +1,255 @@
+{
+  "name": "YLIA",
+  "description": "A vibrant translucent blue and pink Your Lie in April theme for Bunny.",
+  "authors": [
+    {
+      "name": "Alex",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": [
+      "rgba(0, 0, 0, 0.52)"
+    ],
+    "BACKGROUND_ACCENT": [
+      "rgba(0, 0, 0, 0.62)"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "rgba(0, 0, 0, 0.48)"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "rgba(3, 12, 16, 0.48)"
+    ],
+    "DIVIDER_STRONG": [
+      "rgba(126, 196, 220, 0.38)"
+    ],
+    "DIVIDER_SUBTLE": [
+      "rgba(77, 137, 162, 0.22)"
+    ],
+    "BORDER_SUBTLE": [
+      "rgba(126, 196, 220, 0.25)"
+    ],
+    "SPINE_DEFAULT": [
+      "#6FB8D4"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "rgba(0, 0, 0, 0.62)"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "rgba(0, 0, 0, 0.42)"
+    ],
+    "STAGE_CARD_PILL_BG": [
+      "rgba(0, 0, 0, 0.62)"
+    ],
+    "STATUS_DANGER": [
+      "#E9899B"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "rgba(56, 19, 30, 0.65)"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#FFBFCB"
+    ],
+    "STATUS_DND": [
+      "#E9899B"
+    ],
+    "STATUS_IDLE": [
+      "#E9B96E"
+    ],
+    "STATUS_OFFLINE": [
+      "#526773"
+    ],
+    "STATUS_ONLINE": [
+      "#67C99A"
+    ],
+    "STATUS_POSITIVE": [
+      "#67C99A"
+    ],
+    "STATUS_POSITIVE_BACKGROUND": [
+      "rgba(16, 45, 33, 0.65)"
+    ],
+    "STATUS_POSITIVE_TEXT": [
+      "#A6E9C6"
+    ],
+    "STATUS_SPEAKING": [
+      "#79C7E5"
+    ],
+    "STATUS_WARNING": [
+      "#E9C36A"
+    ],
+    "STATUS_WARNING_BACKGROUND": [
+      "rgba(51, 42, 16, 0.65)"
+    ],
+    "STATUS_WARNING_TEXT": [
+      "#FFE5A0"
+    ],
+    "TEXT_BRAND": [
+      "#91CEE5"
+    ],
+    "TEXT_DANGER": [
+      "#EE91A3"
+    ],
+    "TEXT_LINK": [
+      "#91CEE5"
+    ],
+    "TEXT_LINK_LOW_SATURATION": [
+      "#79AFC2"
+    ],
+    "TEXT_LOW_CONTRAST": [
+      "#91A9B4"
+    ],
+    "TEXT_MESSAGE_PREVIEW_LOW_SAT": [
+      "#A6BAC2"
+    ],
+    "TEXT_MUTED": [
+      "#8199A3"
+    ],
+    "TEXT_MUTED_ON_DEFAULT": [
+      "#B8C9CF"
+    ],
+    "TEXT_NORMAL": [
+      "#D4E8F0"
+    ],
+    "TEXT_POSITIVE": [
+      "#7DD3A5"
+    ],
+    "TEXT_PRIMARY": [
+      "#E8F5FB"
+    ],
+    "TEXT_SECONDARY": [
+      "#B5D0DC"
+    ],
+    "TEXT_WARNING": [
+      "#E9C36A"
+    ],
+    "THEME_LOCKED_BLUR_FALLBACK": [
+      "#000000"
+    ],
+    "THREAD_CHANNEL_SPINE": [
+      "#4E91AD"
+    ],
+    "TOAST_BG": [
+      "rgba(0, 0, 0, 0.78)"
+    ],
+    "TYPING_INDICATOR_BG": [
+      "rgba(0, 0, 0, 0.40)"
+    ],
+    "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
+      "rgba(0, 0, 0, 0.58)"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BACKGROUND": [
+      "rgba(0, 0, 0, 0.72)"
+    ],
+    "VOICE_VIDEO_VIDEO_TILE_BLUR_FALLBACK": [
+      "rgba(0, 0, 0, 0.68)"
+    ],
+    "WHITE": [
+      "#F8FCFD"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "rgba(111, 184, 212, 0.70)"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "rgba(0, 0, 0, 0.20)"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "rgba(121, 192, 216, 0.72)"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "rgba(0, 0, 0, 0.20)"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "rgba(0, 0, 0, 0.46)"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "rgba(0, 0, 0, 0.45)"
+    ],
+    "REDESIGN_INPUT_CONTROL_SELECTED": [
+      "rgba(56, 115, 139, 0.68)"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#4E6670"
+    ],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": [
+      "rgba(0, 0, 0, 0.42)"
+    ],
+    "MENTION_BADGE": [
+      "#E9899B"
+    ],
+    "REDESIGN_MENTION_BADGE": [
+      "#E9899B"
+    ]
+  },
+
+  "rawColors": {
+    "BLACK_500": "#00000080",
+    "BRAND_260": "#D7F0F8",
+    "BRAND_360": "#91CEE5",
+    "BRAND_500": "#5CA6C3",
+    "BRAND_560": "#3B7C97",
+    "ORANGE_260": "#FFE8C2",
+    "ORANGE_300": "#FFDC9D",
+    "ORANGE_330": "#F7CD7C",
+    "ORANGE_345": "#F0BE69",
+    "ORANGE_360": "#E9B96E",
+    "ORANGE_400": "#D29D50",
+    "ORANGE_430": "#BA8541",
+    "ORANGE_460": "#A06F38",
+    "ORANGE_500": "#875B30",
+    "ORANGE_530": "#714C2A",
+    "ORANGE_560": "#5D3E24",
+    "ORANGE_600": "#4A311E",
+    "ORANGE_630": "#39261A",
+    "ORANGE_660": "#2A1D14",
+    "ORANGE_700": "#1D150F",
+    "YELLOW_260": "#FFF0B8",
+    "YELLOW_300": "#FFE79A",
+    "YELLOW_330": "#FFDF7A",
+    "YELLOW_345": "#FFD96A",
+    "YELLOW_360": "#E9C36A",
+    "YELLOW_400": "#D1AE4F",
+    "YELLOW_430": "#B7973E",
+    "YELLOW_460": "#9D8236",
+    "YELLOW_500": "#836C30",
+    "YELLOW_530": "#6B5829",
+    "YELLOW_560": "#574822",
+    "YELLOW_600": "#46391C",
+    "YELLOW_630": "#382E18",
+    "YELLOW_660": "#2A2313",
+    "YELLOW_700": "#1D190E",
+    "RED_430": "#E9899B",
+    "PLUM_14": "#173342",
+    "PLUM_1": "#F4FAFC",
+    "PLUM_22": "#050D12",
+    "PLUM_15": "#0D202A",
+    "PLUM_17": "#12303D",
+    "PLUM_18": "#081923",
+    "PLUM_19": "#07151E",
+    "PLUM_20": "#163847",
+    "PLUM_23": "#0D2734",
+    "PLUM_24": "#12303E",
+    "PRIMARY_800": "#163847",
+    "PRIMARY_660": "#0D2734",
+    "PRIMARY_700": "#12303D",
+    "PRIMARY_560": "#173C4A",
+    "PRIMARY_600": "#12303E",
+    "PRIMARY_630": "#0D202A"
+  },
+
+  "background": {
+    "url": "https://wallpapercave.com/wp/wp5831788.jpg",
+    "blur": 0.35,
+    "alpha": 0.65,
+    "size": "cover",
+    "position": "center"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+
+  "spec": 2,
+  "createdAt": "2026-08-31",
+  "source": "local"
+}
