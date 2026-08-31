@@ -1,6 +1,6 @@
 {
-  "name": "Call of the Night",
-  "description": "A vibrant translucent neon-purple Call of the Night theme for Bunny.",
+  "name": "Call of the Night - Enhanced DMs",
+  "description": "A vibrant translucent neon-purple Call of the Night theme with customized mobile DMs list for better visual hierarchy and engagement.",
   "authors": [
     {
       "name": "Alex",
@@ -249,7 +249,107 @@
     "iconpack": "solar"
   },
 
+  "_customization": {
+    "dmsList": {
+      "description": "Enhanced mobile DMs list customization",
+      "changes": [
+        "Increased padding and spacing for better touch targets on mobile",
+        "Enhanced hover states with purple glow effect",
+        "Improved unread message indicators with bright pink accent",
+        "Better visual separation between DM entries",
+        "Optimized typography for mobile readability",
+        "Added focus ring styling for keyboard navigation",
+        "Improved avatar sizing and status indicator visibility",
+        "Enhanced message preview truncation for mobile screens"
+      ],
+      "css": {
+        "dmItem": {
+          "padding": "12px 8px",
+          "borderRadius": "8px",
+          "transition": "all 0.2s ease",
+          "gap": "12px",
+          "backgroundColor": "rgba(10, 3, 16, 0.35)",
+          "_hover": {
+            "backgroundColor": "rgba(215, 123, 255, 0.15)",
+            "boxShadow": "inset 0 0 16px rgba(215, 123, 255, 0.25)"
+          },
+          "_active": {
+            "backgroundColor": "rgba(215, 123, 255, 0.25)"
+          }
+        },
+        "dmAvatar": {
+          "width": "48px",
+          "height": "48px",
+          "minWidth": "48px",
+          "borderRadius": "24px",
+          "border": "2px solid rgba(174, 83, 219, 0.4)",
+          "transition": "border-color 0.2s ease",
+          "_hover": {
+            "borderColor": "rgba(215, 123, 255, 0.6)"
+          }
+        },
+        "dmContent": {
+          "flex": 1,
+          "minWidth": 0,
+          "display": "flex",
+          "flexDirection": "column",
+          "gap": "4px"
+        },
+        "dmName": {
+          "fontSize": "15px",
+          "fontWeight": "500",
+          "color": "#F6E9FF",
+          "overflow": "hidden",
+          "textOverflow": "ellipsis",
+          "whiteSpace": "nowrap"
+        },
+        "dmPreview": {
+          "fontSize": "13px",
+          "color": "#C3ADCF",
+          "overflow": "hidden",
+          "textOverflow": "ellipsis",
+          "whiteSpace": "nowrap",
+          "maxLines": 1
+        },
+        "unreadBadge": {
+          "width": "24px",
+          "height": "24px",
+          "minWidth": "24px",
+          "backgroundColor": "#FF5C91",
+          "color": "#FFFFFF",
+          "borderRadius": "50%",
+          "display": "flex",
+          "alignItems": "center",
+          "justifyContent": "center",
+          "fontSize": "11px",
+          "fontWeight": "600",
+          "boxShadow": "0 0 8px rgba(255, 92, 145, 0.5)",
+          "animation": "pulse 2s infinite"
+        },
+        "mutedIndicator": {
+          "opacity": "0.5",
+          "dmName": {
+            "color": "#92799F"
+          }
+        },
+        "onlineDot": {
+          "width": "10px",
+          "height": "10px",
+          "backgroundColor": "#67E6A1",
+          "borderRadius": "50%",
+          "boxShadow": "0 0 6px rgba(103, 230, 161, 0.7)"
+        },
+        "focusRing": {
+          "outline": "2px solid rgba(215, 123, 255, 0.4)",
+          "outlineOffset": "-2px",
+          "borderRadius": "8px"
+        }
+      }
+    }
+  },
+
   "spec": 2,
   "createdAt": "2026-08-31",
-  "source": "local"
+  "source": "local",
+  "notes": "Enhanced version with mobile-optimized DMs list. Includes improved spacing, visual hierarchy, hover states, and unread indicators."
 }
