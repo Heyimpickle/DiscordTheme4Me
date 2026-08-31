@@ -1,0 +1,24 @@
+{
+  "spec": 1,
+  "name": "RagingRedLotus BB",
+  "previewText": "RagingRedLotus BB",
+  "main": {
+    "ABCGintoNord-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ABCGintoNord-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ABCGintoNord-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ABCGintoNord-Medium": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-ExtraBold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-Medium": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-Normal": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-NormalItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "ggsans-SemiboldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "NotoSans-Bold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "NotoSans-BoldItalic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "NotoSans-Italic": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "NotoSans-Regular": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf",
+    "SourceCodePro-Semibold": "https://github.com/Heyimpickle/DiscordTheme4Me/raw/refs/heads/main/RagingRedLotusBB-with-math.ttf"
+  }
+}
