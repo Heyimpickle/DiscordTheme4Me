@@ -171,7 +171,7 @@
       "#513961"
     ],
     "CHAT_INPUT_CONTAINER_BACKGROUND": [
-      "rgba(0, 0, 0, 0.42)"
+      "rgba(0, 0, 0, 0.28)"
     ],
     "MENTION_BADGE": [
       "#FF5C91"
@@ -228,7 +228,7 @@
     "PLUM_20": "#090510",
     "PLUM_23": "#14091F",
     "PLUM_24": "#1C0C29",
-    "PRIMARY_800": "#1A0B27",
+    "PRIMARY_800": "#090510",
     "PRIMARY_660": "#14091F",
     "PRIMARY_700": "#10071A",
     "PRIMARY_560": "#24102F",
