@@ -12,10 +12,10 @@
 “rgba(0, 0, 0, 0.52)”
 ],
 “BACKGROUND_MOBILE_PRIMARY”: [
-“rgba(38, 14, 58, 0.82)”
+“#26103A”
 ],
 “BACKGROUND_MOBILE_SECONDARY”: [
-“rgba(22, 8, 34, 0.78)”
+“#170A21”
 ],
 “BACKGROUND_ACCENT”: [
 “rgba(0, 0, 0, 0.62)”
