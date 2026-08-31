@@ -1,7 +1,7 @@
 {
   "name": "CallOfTheNight",
-  "description": "A Call of the Night inspired purple neon theme.",
-  "version": "2.0",
+  "description": "Call of the Night inspired neon purple nightlife theme.",
+  "version": "1.0",
   "authors": [
     {
       "name": "Alex",
@@ -10,31 +10,31 @@
   ],
   "theme_color_map": {
     "HEADER_PRIMARY": [
-      "#f5e9ff",
+      "#f7e9ff",
       "#2b1838"
     ],
     "HEADER_SECONDARY": [
-      "#c9a8dc",
+      "#d0a9e8",
       "#6d527c"
     ],
     "TEXT_NORMAL": [
-      "#eadcf2",
+      "#eadcf5",
       "#302338"
     ],
     "TEXT_MUTED": [
-      "#a991b2",
+      "#a98fb8",
       "#76627f"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d17aff",
+      "#c76cff",
       "#75429a"
     ],
     "INTERACTIVE_HOVER": [
-      "#e29aff",
+      "#df8cff",
       "#62347f"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#f0b6ff",
+      "#eeadff",
       "#4d2868"
     ],
     "INTERACTIVE_MUTED": [
@@ -42,19 +42,19 @@
       "#9b8aa3"
     ],
     "BACKGROUND_PRIMARY": [
-      "#090510",
+      "#090511",
       "#f5eff8"
     ],
     "BACKGROUND_SECONDARY": [
-      "#10071a",
+      "#10071b",
       "#eee7f2"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#160a24",
+      "#160a25",
       "#e6ddea"
     ],
     "BACKGROUND_TERTIARY": [
-      "#200d32",
+      "#210d34",
       "#dcd0e2"
     ],
     "BACKGROUND_ACCENT": [
@@ -66,20 +66,20 @@
       "#f1eaf4"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#090510",
+      "#090511",
       "#f5eff8"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#10071a",
+      "#10071b",
       "#eee7f2"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#160a24",
+      "#160a25",
       "#e6ddea"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "rgba(190, 75, 255, 0.08)",
-      "#ffffff"
+      "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
       "rgba(190, 75, 255, 0.08)",
@@ -94,11 +94,11 @@
       "hsla(280, 40%, 50%, 0.24)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "rgba(210, 90, 255, 0.2)",
+      "transparent",
       "hsla(280, 40%, 50%, 0.08)"
     ],
     "SCROLLBAR_THIN_THUMB": [
-      "#6f2d91",
+      "#5b2878",
       "hsla(280, 30%, 40%, 0.3)"
     ],
     "SCROLLBAR_THIN_TRACK": [
@@ -106,15 +106,15 @@
       "hsla(0, 0%, 0%, 0)"
     ],
     "SCROLLBAR_AUTO_THUMB": [
-      "#7d35a3",
+      "#6e2d91",
       "#b999c8"
     ],
     "SCROLLBAR_AUTO_TRACK": [
-      "rgba(0, 0, 0, 0.18)",
-      "#eee7f2"
+      "rgba(0, 0, 0, 0.1)",
+      "#f2f2f2"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#0d0616",
+      "#0d0617",
       "#e8e0ed"
     ],
     "CHANNELS_DEFAULT": [
@@ -131,7 +131,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#6e3a86",
+    "PRIMARY_DARK": "#74378e",
     "PRIMARY_DARK_100": "#f8efff",
     "PRIMARY_DARK_200": "#f2e5fa",
     "PRIMARY_DARK_300": "#d5b9e2",
@@ -148,10 +148,10 @@
     "STATUS_YELLOW": "#ffd166"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#090510"
+    "CHAT_GREY": "#090511"
   },
   "background": {
-    "blur": 0.6,
+    "blur": 0.4,
     "url": "https://i.kym-cdn.com/photos/images/newsfeed/003/054/871/5ee.gif",
     "alpha": 0.35
   }
