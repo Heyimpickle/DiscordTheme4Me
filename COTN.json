@@ -9,13 +9,13 @@
   ],
   "semanticColors": {
     "BACKGROUND_TERTIARY": [
-      "rgba(0, 250, 0, 0.52)"
+      "rgba(0, 0, 0, 0.52)"
     ],
     "BACKGROUND_ACCENT": [
       "rgba(0, 0, 0, 0.62)"
     ],
     "BACKGROUND_SECONDARY": [
-      "rgba(0, 0, 250, 0.48)"
+      "rgba(0, 0, 0, 0.48)"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "rgba(10, 3, 16, 0.48)"
@@ -228,7 +228,7 @@
     "PLUM_20": "#090510",
     "PLUM_23": "#14091F",
     "PLUM_24": "#1C0C29",
-    "PRIMARY_800": "#090510",
+    "PRIMARY_800": "#1A0B27",
     "PRIMARY_660": "#14091F",
     "PRIMARY_700": "#10071A",
     "PRIMARY_560": "#24102F",
